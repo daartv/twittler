@@ -1,0 +1,55 @@
+#header {
+	width:96%;
+	background-color: blue;
+	height: 50px;
+	border: solid black 5px;
+	border-radius: 10px;
+	padding:10px;
+}
+
+#load {
+	display: block;
+	border: 5px solid blue;
+	width: 400px;
+	padding: 20px;
+	margin: 20px;
+	border-radius: 10px;
+	float: right;
+	margin-right: 400px;
+}
+
+.feed {
+	display: block;
+	border: 2px solid black;
+	margin: 10px;
+	padding: 15px;
+	background-color: #1DA1F2;
+	width: 30%;
+	font-style: italic;
+	border-radius: 10px;
+}
+
+.time-stamp {
+	font-size: 15px;
+	padding:none;
+}
+
+.user {
+	font-weight: bolder;
+	font-size:22px;
+	display: inline;
+	text-decoration: underline;
+	text-decoration-color: blue;
+	border: 2px dashed black;
+	border-radius: 10px;
+	background-color: gray;
+}
+
+body {
+	background-color: gray;
+}
+
+#right-column {
+	float: right;
+	padding-right: 1000px;
+}
